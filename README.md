@@ -1,4 +1,4 @@
-# Hackaton ADSO 2026
+#Hackaton ADSO 2026
 
 ##Descripcion del proyecto
 
@@ -9,8 +9,9 @@
 
 ##Como clonar el repositorio
 
+##clonacion
+
 ##Codigo de clonacion de reposirorio
 bash
 git clone [https://github.com/JJLCV-tech/ma-ana_habra_un_atentado_-3.git]
-
-(https://github.com/JJLCV-tech/ma-ana_habra_un_atentado_-3.git)
+(https://github.com/JJLCV-tech/ma-ana_habra_un_atentado_-3.git) 
